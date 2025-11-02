@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="./src/download.gif">
 
 <h3 align="left">Vamos construir conexões!</h3>
 
