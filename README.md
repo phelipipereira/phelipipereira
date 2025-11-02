@@ -4,6 +4,8 @@
 
 ---
 
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
 <h3 align="left">Vamos construir conexões!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:phelipimachado8@gmail.com)
@@ -31,19 +33,25 @@
 
 ---
 
-<img
-  align="left"
-  alt="Github Stacks"
-  height="700"
-  style"padding-right: 10px;"
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=phelipipereira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-  src= "https://github-readme-stats.vercel.app/api?username=phelipipereira&show_icons=true"
-  
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipipereira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-/>
+</p>
 
 
----
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phelipipereira/phelipipereira/output/github-contribution-grid-snake-dark.svg">
